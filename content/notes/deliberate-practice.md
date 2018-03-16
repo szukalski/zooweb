@@ -26,6 +26,7 @@ Deliberate Practice is a special type of practice that is purposeful and systema
 ### Feedback
 
 The difference between regular and deliberate practice is feedback  
+
 1. Measurement
     * Proves progress
 2. Coaching
