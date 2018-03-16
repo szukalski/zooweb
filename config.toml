@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
     author = "David James Roberts"
     description = "David James Roberts' personal website"
     keywords = "blog,architect,manager,leader,personal"
-    info = "Converged Infrastructure Leader and Architect"
+    info = "Enterprise IT Architect, Leader, and Manager"
 
 [[params.social]]
     name = "Github"
