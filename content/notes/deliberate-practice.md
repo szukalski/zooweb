@@ -12,8 +12,8 @@ categories = [
 +++
 
 Deliberate Practice is a special type of practice that is purposeful and systematic
-    * Regular practice includes mindless repetitions
-    * Deliberate practice requires focused attention with the specific goal of improving performance
+* Regular practice includes mindless repetitions
+* Deliberate practice requires focused attention with the specific goal of improving performance
 
 ### Pattern
 
@@ -25,8 +25,8 @@ Deliberate Practice is a special type of practice that is purposeful and systema
 ### Feedback
 
 The difference between regular and deliberate practice is feedback.
-    1. Measurement
-        * Proves progress
-    2. Coaching
-        * Nearly impossible to both perform a task and measure your progress at the same time
+1. Measurement
+    * Proves progress
+2. Coaching
+    * Nearly impossible to both perform a task and measure your progress at the same time
 
