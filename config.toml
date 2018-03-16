@@ -35,10 +35,10 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "docs/David.James.Roberts.CV.2018-03.16.pdf"
 
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/blog/"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/blog/"
 [[menu.main]]
     name = "Notes"
     weight = 2
