@@ -12,6 +12,7 @@ categories = [
 +++
 
 Deliberate Practice is a special type of practice that is purposeful and systematic  
+
 * Regular practice includes mindless repetitions
 * Deliberate practice requires focused attention with the specific goal of improving performance
 
