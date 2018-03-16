@@ -13,14 +13,12 @@ categories = [
 ]
 +++
 
-# So Good They Can't Ignore You
-
 So Good They Can't Ignore You  
 Cal Newport  
 ISBN-10: 1455509124  
 ISBN-13: 978-1455509126  
 
-# So Good They Can't Ignore You
+# Summary
 
 1. Don't Follow Your Passion
 2. Importance of Skill
