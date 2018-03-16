@@ -30,6 +30,10 @@ pygmentscodefencesguesssyntax = true
     name = "LinkedIn"
     weight = 2
     url = "https://www.linkedin.com/in/davidjamesroberts/"
+[[params.social]]
+    name = "CV"
+    weight = 3
+    url = "docs/David.James.Roberts.CV.2018-03.16.pdf"
 
 [[menu.main]]
     name = "Blog"
@@ -43,4 +47,3 @@ pygmentscodefencesguesssyntax = true
     name = "About"
     weight = 3
     url = "/about/"
-
