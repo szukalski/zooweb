@@ -62,9 +62,7 @@ ISBN-13: 978-1455509126
 
 ### Mission Development
 
-|Level|Focus|
-|-|-|
-| Top Level | Guiding statement for the mission |
-| Middle Level | Exploratory work to check if value is created and to gain feedback |
-| Bottom Level | Background research for the mission |
+Top Level &rarr; Guiding statement for the mission  
+Middle Level &rarr;  Exploratory work to check if value is created and to gain feedback  
+Bottom Level &rarr;  Background research for the mission  
 
