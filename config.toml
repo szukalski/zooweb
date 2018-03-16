@@ -1,0 +1,45 @@
+baseurl = "http://www.zoocowski.com"
+title = "David James Roberts"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[permalinks]
+    posts = "posts/:title/"
+    default = ":title/"
+
+[params]
+    author = "David James Roberts"
+    description = "David James Roberts' personal website"
+    keywords = "blog,architect,manager,leader,personal"
+    info = "IT Leader and Converged Infrastructure Architect"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/szukalski/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 2
+    url = "https://www.linkedin.com/in/davidjamesroberts/"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/blog/"
+[[menu.main]]
+    name = "Notes"
+    weight = 2
+    url = "/notes/"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "/about/"
