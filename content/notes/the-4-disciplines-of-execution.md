@@ -175,15 +175,15 @@ A frequently recurring cycle of accounting for past performance and planning to 
 
 *Initial Performance*  
 
-Resisters:  20%
-Potentials: 60%
-Models:     20%
+Resisters:  20%  
+Potentials: 60%  
+Models:     20%  
 
 *Goal Performance*  
 
-Resisters:  5%
-Potentials: 20%
-Models:     75%
+Resisters:  5%  
+Potentials: 20%  
+Models:     75%  
 
 # Installing Discipline 1: Focus on the Wildly Important
 
