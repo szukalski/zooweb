@@ -1,5 +1,5 @@
 +++
-date = "2018-03-16"
+date = "2018-03-15"
 title = "The 4 Disciplines of Execution"
 slug = "the-4-disciplines-of-execution"
 tags = [
@@ -175,16 +175,15 @@ A frequently recurring cycle of accounting for past performance and planning to 
 
 *Initial Performance*  
 
-| Resisters | Potentials | Models |
-|-----------|------------|--------|
-| 20%       | 60%        | 20%    |
+Resisters:  20%
+Potentials: 60%
+Models:     20%
 
 *Goal Performance*  
 
-| Resisters | Potentials | Models |
-|-----------|------------|--------|
-| 5%        | 20%        | 75%    |
-
+Resisters:  5%
+Potentials: 20%
+Models:     75%
 
 # Installing Discipline 1: Focus on the Wildly Important
 
@@ -278,6 +277,7 @@ Small set of lead measures that will move the lag measure on the WIG
         * How well are we supposed to perform?
     * Does it start with a verb?
     * Is it simple?
+
 # Installing Discipline 3: Keep a Compelling Scoreboard
 
 ### Deliverable
