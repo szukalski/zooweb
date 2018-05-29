@@ -20,14 +20,14 @@ Marshall Goldsmith
 
 ## 4 Key Beliefs Which Help Us Become Successful May Be Holding Us Back
 
-1. I Have Succeeded
-* The skills and talent which got you here may not be enough to go further
-2. I Can Succeed
-* The desire and confidence to succeed may not be enough to go further
-3. I Will Succeed
-* Overcommitment may hold you back
-4. I Choose to Succeed
-* I have chosen to succeed means I have to choose to change
+* I Have Succeeded
+  * The skills and talent which got you here may not be enough to go further
+* I Can Succeed
+  * The desire and confidence to succeed may not be enough to go further
+* I Will Succeed
+  * Overcommitment may hold you back
+* I Choose to Succeed
+  * I have chosen to succeed means I have to choose to change
 
 ## We All Obey Natural Law
 
@@ -65,3 +65,41 @@ The annoying habits are all about sharing or withholding information or emotion
 Always ask the questions:
 * Is it appropriate?
 * How much should I convey?
+
+# Feedback
+
+## Unsolicited Feedback
+
+Find the knowledge which is unknown to us but known to others.
+
+## Observational Feedback
+
+* Make a list of people's casual remarks about you
+  * Review the list as positives or negatives
+  * Search for persisting negatives
+* Turn the sound off
+  * Look for physical behaviour
+* Complete the sentence
+  * Pick one thing you want to get better at
+  * List the positive benefits that will accrue if you reach that goal
+  * When benefits turn to something personal and meaningful then you have confirmation that this is the right thing to fix
+* Listen to your self-aggrandising remarks
+  * Believe the opposite of any self-aggrandising or self-deprecating remarks
+* Look homeward
+  * Flaws at work don't vanish when you go home
+
+# How to Apologise
+
+I'm sorry.
+I'll try to do better in the future.
+(Nothing more)
+
+# 7 Steps to Success
+
+1. Assess the situation
+2. Isolate the problem
+3. Formulate
+4. Go up > Get your superiors to approve
+5. Go sideways > Get your peers to agree
+6. Go down > Get your direct reports to accept
+7. Implement
