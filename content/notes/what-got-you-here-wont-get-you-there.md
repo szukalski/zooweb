@@ -63,6 +63,7 @@ People will only change their behaviour if it can be shown that it is in their b
 The annoying habits are all about sharing or withholding information or emotion
 
 Always ask the questions:
+
 * Is it appropriate?
 * How much should I convey?
 
