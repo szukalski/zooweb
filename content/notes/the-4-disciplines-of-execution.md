@@ -68,12 +68,12 @@ The goal is to raise team performance and instill changed behaviours into the re
 Focus on the lead measures to achieve the lag measures.
 
 * Lag Measure
-    * Measures the goal
+  * Measures the goal
 * Lead Measure
-    * Predictive
-        * Measures something that leads to the goal
-    * Influenceable
-        * Something we have control over
+  * Predictive
+    * Measures something that leads to the goal
+* Influenceable
+    * Something we have control over
 
 # Discipline 3: Keep a Compelling Scoreboard
 
@@ -163,13 +163,13 @@ A frequently recurring cycle of accounting for past performance and planning to 
 # Moving the Middle
 
 * *Models*
-    * Top performers
-    * Most engaged
+  * Top performers
+  * Most engaged
 * *Resisters*
-    * Least engaged
-    * Most resistant
+  * Least engaged
+  * Most resistant
 * *Potentials*
-    * Capacity to be top performers but haven't arrived yet
+  * Capacity to be top performers but haven't arrived yet
 
 ### Move the Middle
 
