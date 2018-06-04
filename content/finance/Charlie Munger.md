@@ -3,11 +3,10 @@ date = "2018-06-04"
 title = "Charlie Munger"
 slug = "charlie-munger"
 tags = [
-    "notes",
-    "speaking",
+    "finance",
 ]
 categories = [
-    "speaking",
+    "finance",
 ]
 +++
 
