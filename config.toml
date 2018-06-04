@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
     author = "szukalski"
     description = "Musings from a Simple Mooman"
     keywords = "blog,architect,manager,leader,personal"
-    info = "Enterprise IT Architect, Leader, and Manager"
+    info = "Some notes I have kept for myself"
 
 [[params.social]]
     name = "Github"
@@ -40,14 +40,18 @@ pygmentscodefencesguesssyntax = true
 #    weight = 1
 #    url  = "/blog/"
 [[menu.main]]
-    name = "Notes"
+    name = "career"
     weight = 2
-    url = "/notes/"
+    url = "/career/"
 [[menu.main]]
-    name = "Finance"
+    name = "management"
     weight = 3
+    url = "/management/"
+[[menu.main]]
+    name = "finance"
+    weight = 4
     url = "/finance/"
 [[menu.main]]
     name = "About"
-    weight = 4
+    weight = 5
     url = "/about/"

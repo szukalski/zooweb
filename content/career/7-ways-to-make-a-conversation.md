@@ -35,4 +35,3 @@ categories = [
 7. Name, Place, Animal, Thing
     * Remember the details.
     * Say their name and repeat it back to them.
-
