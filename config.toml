@@ -41,6 +41,7 @@ pygmentscodefencesguesssyntax = true
 #    url  = "/blog/"
 [[menu.main]]
     name = "career"
+    title = "career"
     weight = 2
     url = "/career/"
 [[menu.main]]
