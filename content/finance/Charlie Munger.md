@@ -24,8 +24,8 @@ categories = [
 
 * Concentration and simplicity
   * Own a few stocks (3-4)
-    * Pick a few stocks and sit on them for your life
-    * Try to be consistently not stupid, instead of trying to be intelligent
+      * Pick a few stocks and sit on them for your life
+      * Try to be consistently not stupid, instead of trying to be intelligent
   * Take substantial stakes
-    * Put a large amoutn of money into something where you won't have to make another decision
-    * Buy a few great companies and sit on your ass
+      * Put a large amoutn of money into something where you won't have to make another decision
+      * Buy a few great companies and sit on your ass
