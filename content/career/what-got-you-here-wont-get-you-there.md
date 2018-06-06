@@ -89,13 +89,15 @@ Find the knowledge which is unknown to us but known to others.
 * Look homeward
   * Flaws at work don't vanish when you go home
 
-# How to Apologise
+# Subtle Arts
 
-I'm sorry.
-I'll try to do better in the future.
-(Nothing more)
+## Apologise
 
-# 7 Steps to Success
+* I'm sorry.
+* I'll try to do better in the future.
+* (Nothing more)
+
+## Advertise
 
 1. Assess the situation
 2. Isolate the problem
@@ -104,3 +106,63 @@ I'll try to do better in the future.
 5. Go sideways > Get your peers to agree
 6. Go down > Get your direct reports to accept
 7. Implement
+
+## Listen
+
+* Think before you speak
+* Listen with respect
+* Ask yourself "Is it worth it?"
+
+The ability to make the person you are listening to feel like they are the only person in the room is what separates the great from the near-great.
+
+## Thank
+
+* Write thank you notes
+* Give yourself an A+ in gratitude
+
+## Follow Up
+
+1. Not everyone responds to development
+2. There is an enormous disconnect between learning and doing
+3. People don't get better without follow-up
+4. Becoming better is a process, not an event
+
+### Nightly Follow-Up Routine
+
+1. How much walking did I do?
+2. How many push-ups?
+3. How many sit-ups?
+4. Did you eat any high-fat foods?
+5. How much alcohol did you drink?
+6. How many hours did you sleep?
+7. How much screen time (TV/internet/phone) did you have?
+8. How much time did you spend writing?
+9. Did you do something nice for your wife?
+10. Did you do something nice for your kids?
+11. How many times did you try to prove you were right when it wasn't worth it?
+12. How many minutes did you spend on topics which didn't matter or that you couldn't control?
+
+## Feed Forward
+
+1. Pick a behaviour which would make a significant positive benefit in your life
+2. Describe this objective in a one-to-one dialogue with someone you know
+3. Ask this person for two suggestions to help achieve this objective
+4. Listen attentively to the suggestions. Only response allowed is "Thank you"
+
+# Special Challenges for People in Charge
+
+* Tell your staff how to handle you
+* Stop acting as if you are managing you
+* Stop checking the box > Follow-up
+* Stop being prejudiced about your employees
+    * "I know what they want"
+    * "I know what they know"
+    * "I hate their selfishness"
+    * "I can always get someone else"
+
+# What We Really Want
+
+* Happiness
+* Relationships
+* Following dreams
+* Meaning
