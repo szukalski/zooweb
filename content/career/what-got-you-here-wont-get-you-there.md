@@ -21,19 +21,19 @@ Marshall Goldsmith
 ## 4 Key Beliefs Which Help Us Become Successful May Be Holding Us Back
 
 * I Have Succeeded
-  * The skills and talent which got you here may not be enough to go further
+    * The skills and talent which got you here may not be enough to go further
 * I Can Succeed
-  * The desire and confidence to succeed may not be enough to go further
+    * The desire and confidence to succeed may not be enough to go further
 * I Will Succeed
-  * Overcommitment may hold you back
+    * Overcommitment may hold you back
 * I Choose to Succeed
-  * I have chosen to succeed means I have to choose to change
+    * I have chosen to succeed means I have to choose to change
 
 ## We All Obey Natural Law
 
 People will only change their behaviour if it can be shown that it is in their best interests defined by their own values.
 
-# What's Wrong With Us?
+# Whats Wrong With Us
 
 ## 20 Annoying Habits
 
@@ -76,18 +76,18 @@ Find the knowledge which is unknown to us but known to others.
 ## Observational Feedback
 
 * Make a list of people's casual remarks about you
-  * Review the list as positives or negatives
-  * Search for persisting negatives
+    * Review the list as positives or negatives
+    * Search for persisting negatives
 * Turn the sound off
-  * Look for physical behaviour
+    * Look for physical behaviour
 * Complete the sentence
-  * Pick one thing you want to get better at
-  * List the positive benefits that will accrue if you reach that goal
-  * When benefits turn to something personal and meaningful then you have confirmation that this is the right thing to fix
+    * Pick one thing you want to get better at
+    * List the positive benefits that will accrue if you reach that goal
+    * When benefits turn to something personal and meaningful then you have confirmation that this is the right thing to fix
 * Listen to your self-aggrandising remarks
-  * Believe the opposite of any self-aggrandising or self-deprecating remarks
+    * Believe the opposite of any self-aggrandising or self-deprecating remarks
 * Look homeward
-  * Flaws at work don't vanish when you go home
+    * Flaws at work don't vanish when you go home
 
 # Subtle Arts
 
