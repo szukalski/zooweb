@@ -85,5 +85,73 @@ Ratio between the market as a whole and national revenue
 
 ### Charlie Munger's Rule to Investing
 
-1. Must be a business he is capable of understanding
-2. 
+1. **Must** be a business he is capable of understanding
+2. **Must** be a business with some intrinsic characteristics that gives it a durable competitive advantage
+3. **Like** it to be a business that has management with integrity and talent
+4. **Must** be a business that he can buy for a price that makes sense and gives a Margin of Safety
+
+### Gurus
+
+Everyone running a fund of $100M or more must file a quarterly report to the SEC
+
+* Follow the gurus
+    * Mohnish Pabrai, Guy Spier, David Einhorn, Bruce Berkowitz
+* Read Warrent Buffet's letters
+
+## Charlie's Moat and Management
+
+Determine if a business has an intrinsic advantage that gives it a durable competitive advantage
+
+* Intrinsic means the advantage cannot be separated from the business
+* Durable means that it is so hard or expensive to overcome that no competitor will or can try
+
+### Five and a Half Moats
+
+1. Brand
+2. Switching / Lock-In
+    * Network Effects
+3. Toll Bridge
+    * Cost to competitive entry
+4. Secrets
+5. Price
+
+### Big Four Numbers
+
+1. Net Income / Net Income / Net Profit
+    * Profit after all costs of making profit are deducted
+2. (Book Value / Equity) + Dividends
+    * Value of business if all assets were sold, minus liabilities, before any dividends were paid out
+3. Sales / Revenue
+4. Operating Cash
+    * Actual cash from business operations
+
+* Like to see each growing at 10% p.a.
+    * Most important is that it is consistent and predictable
+    * If down any year, find out why
+
+### Windage Growth Rate
+
+Estimate of future growth rates
+
+### Charlie Munger's Third Principle: Management with Integrity and Talent
+
+* Research:
+    * Biography
+    * Management Style
+    * Founder
+    * Board of Directors
+    * Ownership
+* Read letters to shareholders
+
+```Only invest in a business an idiot could run because one day they will```
+
+### Management Numbers
+
+#### Return on Equity
+
+ROE = Net Income / Equity
+
+#### Return on Invested Capital
+
+ROIC = Net Income / (Equity + Debt)
+
