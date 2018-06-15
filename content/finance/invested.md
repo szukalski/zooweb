@@ -71,8 +71,7 @@ Total market price of the S&P 500 divided by the cyclically and inflation-adjust
     * 2000 > 40 > market crash of 50%
     * Now > 31 > ???
 * Doesn't indicate a market crash
-
-**Indicates market is badly mispriced**
+    * **Indicates market is badly mispriced**
 
 ### Buffett Indicator
 
@@ -131,7 +130,7 @@ Determine if a business has an intrinsic advantage that gives it a durable compe
 
 ### Windage Growth Rate
 
-Estimate of future growth rates
+Estimate of future growth rates based on the Big Four Numbers
 
 ### Charlie Munger's Third Principle: Management with Integrity and Talent
 
@@ -232,3 +231,135 @@ Net Cash Provided by Operating Activities
 + Any other CAPEX for Maintenance and Growth (negative)
 = Free Cash Flow
 ```
+
+### Pricing 3: Margin of Safety
+
+* MOS calculates what I'd pay today to get years of future earnings and the risk actually getting the money in the future
+    * Rate of return required to make your risk worthwhile
+    * AKA Minimum Acceptable Rate of Return (**MARR**)
+* Different than Ten Cap and Payback Time
+    * Change from Owner Earnings / Free Cash Flow to Earning
+    * Change from pricing a company as private to pricing as public (double price)
+* MARR of 15% is good
+    * High enough to cover risk, low enough to find value in market
+
+#### MOS Summary
+
+* Calculate what I expect to sell the company for in ten years, then work backward to find the price I'm willing to pay
+* Input:
+    * Earnings per Share (**EPS**)
+    * Windage Growth Rate
+    * Price-to-Earnings Ratio (**P/E**)
+    * Minimum Acceptable Rate of Return (**MARR**)
+
+``` Math
+EPS = On Income Statement
+Windage Growth Rate = Based on Big Four Numbers
+Windage P/E = lowest of (2x Windage Growth Rate) and (Historical Highest P/E in last ten years)
+MARR = 15%
+```
+
+#### MOS Formula
+
+``` Math
+Step 1:
+Future 10-Year EPS = EPS x (1 + Windage Growth Rate) compounded x 10
+
+Step 2:
+Future 10-Year Share Price = Future 10-Year EPS x Windage P/E
+
+Step 3:
+Sticker Price = Future 10-Year Share Price / (1 + MARR)^Years = Future 10-Year Share Price / (1.15)^10 = Future 10-Year Share Price / 4
+
+Step 4:
+MOS Buy Price = Sticker Price / 2
+```
+
+* Can use Excel PV and FV functions
+
+### Reasonable Price with Margin of Safety
+
+* What is the Ten Cap buy price?
+* What is the 8-Year Payback Time price?
+* What is the Margin of Safety buy price?
+
+**Never pay more than reasonable price!**
+
+## Inverting the Story
+
+### Expensive Errors Checklist
+
+* Meaning
+    * On edge or outside Circle of Competence
+    * No gurus buying
+    * Not a business I enjoy studying
+    * Industry or company or product is not easy to understand
+    * Did not do inversion
+    * Industry on the decline
+    * Unfriendly union
+    * Demand for product in 10 years is uncertain
+    * Industry rate of change is high
+    * Did not read 10 years of footnotes in 10-K
+* Moat
+    * Moat is not intrinsic
+    * Moat is not durable
+    * Moat is not being widened
+    * Big Four Numbers are not growing
+    * Book value (plus dividends) is not growing
+    * Owner Earnings and free cash flow not predictable
+    * Cheap foreign competition getting stronger but hasn't reached industry here yet
+* Management
+    * ROE & ROIC going down
+    * CEO does not act like an owner
+    * CEO puts self first
+    * CEO glosses over problems
+    * CEO selling too much stock
+    * Company buying back stock well above value
+    * CEO recently replaced
+    * Debt more than two years free cash flow
+    * Debt increasing
+    * Loan to expire soon
+    * Loan covenants close to being breached by company
+* Pricing
+    * Can't confidently calculate Owner Earnings
+    * Pay more than Ten Cap, 8-year Payback Time, or Margin of Safety prices
+    * Temporary issues making earning and/or free cash growth/losses abnormal
+    * EPS growth engineered by buybacks
+    * Future growth rate and future P/E estimates not realistic
+    * There is no Event and no price drop
+    * Price dropped but not enough of an Event to go on sale
+    * Event produces significant fear but may no resolve itself in 1-3 years
+    * Event may permanently damage the business
+    * Can't understand the Event
+
+### The Story
+
+* Principles of Investing
+    * Understanding
+    * Mission
+    * Moat
+    * Management
+    * Sensible Price
+* Three Reasons to Own Company
+* Event that put the company on sale
+
+### The Inversion
+
+* Invert the three reasons to own the company and see if they stand up
+* If any reason leads to uncertainty > Put company in Too-Hard pile
+
+### Reviewing Companies
+
+* Folder for each company:
+    * Company Filings
+    * General Research
+    * Pro Opinions
+    * Con Opinions
+* Keep root folders:
+    * Wishlist
+    * Buy It
+    * Too Hard
+
+## Buying
+
+* Never buy when market is open so that you are not influenced by daily fluctuations
