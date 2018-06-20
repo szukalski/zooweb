@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = "2018-06-13"
 title = "Invested"
 slug = "invested"
@@ -184,6 +184,7 @@ ROIC = Net Income / (Equity + Debt)
     * Is management buying or selling stock?
 4. Reasonable price with Margin of Safety
     * ...
+
 ## Practice Investing
 
 * XLS with company, date purchased, price, number of shares
@@ -363,3 +364,79 @@ MOS Buy Price = Sticker Price / 2
 ## Buying
 
 * Never buy when market is open so that you are not influenced by daily fluctuations
+* Secret to good investing is to wait
+
+### Antifragile Portfolio
+
+1. Companies with a durable Moat do not just withstand market chaos; wonderful companies generally benefit from Events
+2. We wait in cash for Events which bring the price down > Indexs do not
+
+### Passive-Aggressive Strategy
+
+* Trust your work. You did it so that your emotions do not screw up your decisions
+* The only mistake is to have a wonderful business below your buy price and to do nothing
+* When it's time to buy, be aggressive
+
+### Wishlist Buying Plan
+
+* As a guideline, 10% of portfolio per company
+* Buy your favourite
+* **Create a Wishlist**
+    * Names of companies and the price you will buy them at
+* Buy the first that comes on sale
+
+### Buying in Tranches
+
+* Expect the price to go down and to keep going down
+* Buy in tranches to take advantage of the falling prices
+    1. Buy first 25%
+    2. Wait for price to fall 10% then buy second 25%
+    3. Wait for price to fall 10% then buy third 25%
+    4. Wait for price to fall as far as possible and when it starts to rise buy the final 25%
+* If price goes up then buy all remaining % as long as it is below the buy price
+
+## When To Sell
+
+* Unless the Story of the company changes, you should never sell the company
+
+### Reducing your Basis
+
+* Take out your initial investment so that you have an asset at zero cost
+
+### Dividends
+
+* Return **of** capital before a return **on** capital
+* Can the company can make a better ROE than you? If no, take the cash.
+    * Great companies allocate their money in the best way
+    * Don't buy companies just based on the dividend returns
+
+### Buybacks
+
+* Basis goes down when the company buys shares back from the market because each stockholder then owns a larger part of the company without doing a thing
+    * Equity and number of shares are reduced > ROE & EPS increase
+
+### When to Throw in the Towel and Sell
+
+* Start with Story inversion
+    * When the story changes then it is time to sell
+* Track the company
+    * Quarterly Report
+    * Annual Report
+    * Annual Shareholders Meeting
+* Keep track of difference between price and value
+    * Be fearful when others are greedy, greedy when others are fearful
+
+## Ongoing Practice Checklist
+
+1. Wishlist Status
+    * Calendar the quarterly and annual reports
+    * Sign up for investor updates with company
+    * Set-up email alerts for each company's SEC filings
+2. Reread the Story and Inversion once a Quarter
+    * Recalculate the 3 buy prices with updated numbers from the quarterly reports
+3. Watch market-wide indicators
+    * Shiller P/E and Buffett Indicator
+4. Read more Investing Books
+    * Poor Charlie's Almanack
+5. Research
+    * Financial publications (Wall Street Journal, Barron's, Financial Times)
