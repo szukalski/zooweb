@@ -2,7 +2,7 @@
 date = "2018-06-28"
 title = "The Intelligent Investor"
 slug = "the-intelligent-investor"
-draft = yes
+draft = true
 tags = [
     "finance",
 ]
