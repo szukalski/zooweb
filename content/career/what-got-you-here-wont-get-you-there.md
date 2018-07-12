@@ -101,7 +101,7 @@ Find the knowledge which is unknown to us but known to others.
 
 1. Assess the situation
 2. Isolate the problem
-3. Formulate
+3. Formulate a solution
 4. Go up > Get your superiors to approve
 5. Go sideways > Get your peers to agree
 6. Go down > Get your direct reports to accept
