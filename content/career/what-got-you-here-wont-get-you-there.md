@@ -89,15 +89,7 @@ Find the knowledge which is unknown to us but known to others.
 * Look homeward
     * Flaws at work don't vanish when you go home
 
-# Subtle Arts
-
-## Apologise
-
-* I'm sorry.
-* I'll try to do better in the future.
-* (Nothing more)
-
-## Advertise
+# Getting Things Done
 
 1. Assess the situation
 2. Isolate the problem
@@ -106,6 +98,14 @@ Find the knowledge which is unknown to us but known to others.
 5. Go sideways > Get your peers to agree
 6. Go down > Get your direct reports to accept
 7. Implement
+
+# Subtle Arts
+
+## Apologise
+
+* I'm sorry.
+* I'll try to do better in the future.
+* (Nothing more)
 
 ## Listen
 
