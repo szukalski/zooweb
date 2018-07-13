@@ -199,3 +199,42 @@ ie. 72 / 6% = 12 years
 * New Issues/IPO
 * Day trading
     * The more you trade the less you keep
+
+# 7 - Portfolio Policy for the Enterprising Investor: The Positive Side
+
+## Operations in Common Stocks
+
+1. Buying in low markets and selling in high markets
+    * Doesn't work
+2. Buying carefully chosen growth stocks
+    * No outstanding rewards compared to common stocks
+        * Growth stocks are over-priced and in demand
+3. Buying bargain issues of various types
+4. Buying into special situations
+
+## To Obtain Better Than Average Investment Results
+
+1. It must meet objective or rational test of underlying soundness
+2. It must be different from the policy followed by most investors or speculators
+
+## Three Recommended Fields for "Enterprising Investment"
+
+1. The Relatively Unpopular Large Company
+    * The market overvalues common stocks which have been showing excellent growth or are glamorous for some other reason
+    * The market undervalues companies that are out of favour because of unsatisfactory developments of a temporary nature
+    * **Concentrate on the larger companies that are going through a period of unpopularity**
+        * Large companies are better than smaller:
+            * They have resources in capital and brain power to carry them through adversity and back to satisfactory earnings
+            * The market is likely to respond with reasonable speed to any improvement shown
+    * Focus on the companies selling at the lowest multipliers of their current or previous year's earning
+        * **Exception:** Companies which are inherently speculative sell at both a high price and low multiplier in their good years, and low price and high multiplier in their bad years
+        * Start with the low multiplier test, but add other quantitative and qualitative requirements
+2. Purchase of Bargain Issues
+    * Appears to be worth considerably more than it is selling for, based on facts established by analysis
+        * Includes bonds and common stocks
+    * **Bargain issues have an indicated value at least 50% more than the price**
+    * Two tests for bargain detection:
+        1. Method of Appraisal
+            * Estimating future earnings and multiplying by a factor appropriate to the particular issue
+        2. Value of Business to a Private Owner
+            * 
