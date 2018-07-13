@@ -237,4 +237,3 @@ ie. 72 / 6% = 12 years
         1. Method of Appraisal
             * Estimating future earnings and multiplying by a factor appropriate to the particular issue
         2. Value of Business to a Private Owner
-            * 
