@@ -19,7 +19,7 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Zoo Cow Ski"
     description = "Musings from a Simple Mooman"
-    keywords = "blog,architect,manager,leader,personal"
+    keywords = "notes,manager,leader,personal"
     info = "Some notes I have kept for myself"
 
 #[[params.social]]
