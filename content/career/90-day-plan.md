@@ -11,8 +11,6 @@ categories = [
 ]
 +++
 
-# 90-Day Plan
-
 ## Days 1-30: Own Your Education
 
 * Create 90-day plan!
