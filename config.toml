@@ -17,15 +17,15 @@ pygmentscodefencesguesssyntax = true
     default = ":title/"
 
 [params]
-    author = "szukalski"
+    author = "Zoo Cow Ski"
     description = "Musings from a Simple Mooman"
     keywords = "blog,architect,manager,leader,personal"
     info = "Some notes I have kept for myself"
 
-[[params.social]]
-    name = "Github"
-    weight = 1
-    url = "https://github.com/szukalski/"
+#[[params.social]]
+#    name = "Github"
+#    weight = 1
+#    url = "https://github.com/szukalski/"
 #[[params.social]]
 #    name = "LinkedIn"
 #    weight = 2
