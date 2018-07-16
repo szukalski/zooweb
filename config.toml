@@ -26,10 +26,10 @@ pygmentscodefencesguesssyntax = true
 #    name = "Github"
 #    weight = 1
 #    url = "https://github.com/szukalski/"
-#[[params.social]]
-#    name = "LinkedIn"
-#    weight = 2
-#    url = "https://www.linkedin.com/in/davidjamesroberts/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 1
+    url = "https://www.linkedin.com/in/davidjamesroberts/"
 #[[params.social]]
 #    name = "CV"
 #    weight = 3
