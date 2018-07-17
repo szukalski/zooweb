@@ -313,3 +313,43 @@ Value = Current Assets - Total Liabilities
     * As the market advances, from time to time, make sales from stockholdings and put into bonds. As it declines, reverse the procedure
         * Provides "something to do" during these times
         * Opposite from the crowd
+
+## Business Valuations versus Stock-Market Valuations
+
+* Stock-holders have two advantages:
+    * They are analogous to a silent partner in a private business
+        * Results are dependent on the profits of the enterprise or a change in the underlying vlaue of its assets
+        * Usually determines the value of his interest by calculating his share of the net worth as shown on the balance sheet
+    * Holds a stock which can be sold in minutes and is often far removed from the balance sheet value
+* Stock market activity is usually based on the market price and not the balance sheet value
+    * The investor is dependent on the stock market to validate his commitments
+* The more successful a company, the greater the fluctuations in the price of it's shares
+    * The better the common stock, the more *speculative* it is likely to be
+
+## Conclusions
+
+* A stock does not become a sound investment merely because it can be bough at close to it's asset value
+    * The investor should demand, in addition, a satisfactory ratio of P/E, a sufficiently strong financial position, and the prospect that its earnings will at least be maintained over the years
+* The investor with a sotck portfolio having balance sheet values behind it can take a much more independent and detached view of stock market fluctuations than those who have paid high multipliers of both earnings and tangible assets
+    * As long as the earning power of his holdings remains satisfactory, he can pay as little attention to the stock market as he pleases
+    * More than that, he can use the fluctuations to his advantage to obtain bargain issues
+* The true investor scarcely ever *is forced to sell* his shares, and at all other times he is free to disregard the current price quotation
+    * He need pay attention only when it suits his book, and no more
+
+## Cautions
+
+* Two morals:
+    1. The stock market often goes far wrong and sometimes an alert and courageous investor can take advantage of its errors
+    2. Most businesses change in character and quality over time
+        * Must review periodically
+
+## Summary
+
+* The **Speculator** interest lies in anticipating and profiting from market fluctuations
+* The **Investor** interest lies in acquiring and holding suitable securities at suitable prices
+    * Market movements are important in a practical sense
+        * The create low price levels where it is wise to buy, and high price levels where he should refrain from buying and probably would be wise to sell
+* Should not wait until low market prices appear
+    * Could be a long wait, and a loss of income
+    * Better to invest when he has money to, except when the general market level is much higher than can be justified by well-established standards of value
+* Never buy a stock immediately after a substantial rise, or sell one immediately after a substiantial drop
