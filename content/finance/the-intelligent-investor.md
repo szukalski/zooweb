@@ -212,6 +212,10 @@ ie. 72 / 6% = 12 years
 3. Buying bargain issues of various types
 4. Buying into special situations
 
+## When to get interested in Growth Stocks
+
+* Not when they are popular, but when something goes wrong
+
 ## To Obtain Better Than Average Investment Results
 
 1. It must meet objective or rational test of underlying soundness
@@ -237,3 +241,75 @@ ie. 72 / 6% = 12 years
         1. Method of Appraisal
             * Estimating future earnings and multiplying by a factor appropriate to the particular issue
         2. Value of Business to a Private Owner
+            * Same as 1 but with more attention to the net current assets or working capital
+
+## Two Major Sources of Undervaluation
+
+1. Currently Disappointing Results
+2. Protracted Neglect or Unpopularity
+
+## Requirements for Bargain Stock
+
+* Undervaluation
+* Reasonable stability in earnings over the past decade or more
+* Sufficient size and financial strength to meet possible setbacks in the future
+
+## Ideal Bargain Stock
+
+* Large and prominent company selling well below its past average price and its past P/E multiplier
+* Sells for less than the company's net working capital after deducting prior obligations
+    * Current Assets - Total Liabilities
+
+## Bargain Issue Pattern in Secondary Companies
+
+* A secondary company is one that is not a leader in an important industry
+* Investors have a preference for industry leaders and corresponding lack of interest in secondary companies
+    * Secondary companies have usually sold at much lower prices in relation to earnings and assets
+* No sound reason why secondary companies should not continue indefinitely in operation and earning a fair return on the invested capital
+
+## Why Invest in Secondary Companies
+
+1. Dividend return is relatively high
+2. Reinvested earnings are substantial relative to the price paid and will ultimately affect the price
+3. A bull market is normally generous to low-priced issues
+4. During regular market price adjustment, secondary issues which were undervalued may rise at least to the normal level for their type
+5. The specific factorys which made for a disappointing record of earnings may be corrected by the advent of new conditions, or the adoption of new policies, or by a change in management
+
+## To Check if Stock is Selling for less than the Value of Net Working Capital
+
+```Math
+Value = Current Assets - Total Liabilities
+```
+
+* From the most recent quarterly or annual report
+
+# 8 - The Investor and Market Fluctuations
+
+* Fluctuations will occur
+    * Short maturity bonds > little affect
+    * Longer term bonds > wide price swings over their life
+    * Common stocks > fluctuate over several years
+* Know about these possibilities and be prepared both financially and psychologically
+* Want to benefit from changes in market levels
+    * **Danger of leading to speculative attitudes and activities**
+        * Speculation should be separate from the investment program
+
+## Market Fluctuations as a Guide to Investment Decisions
+
+* Two ways to benefit from market fluctuations:
+    1. Timing
+        * Anticipate the action of the market
+        * **SPECULATION**
+        * Nothing to suggest the average investor can forecast market movements any better than the general public of which he is part of
+        * Any successful trading is of no long-term value as it quickly becomes common place
+        * No real value for an investor unless it enables him to repurchase his shares at substantially under his previous selling price
+    2. Pricing
+        * Buy stocks when their price is below their fair value and sell them when they rise above this fair value
+
+## Market Fluctuations of the Investor's Portfolio
+
+* Most stocks will gain at least 50% from their lowest price and lose at least 33% from their highest price
+* Favour a mechanical method to varying the proportion of bonds and stocks
+    * As the market advances, from time to time, make sales from stockholdings and put into bonds. As it declines, reverse the procedure
+        * Provides "something to do" during these times
+        * Opposite from the crowd
