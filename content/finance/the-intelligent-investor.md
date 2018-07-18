@@ -343,6 +343,49 @@ Value = Current Assets - Total Liabilities
     2. Most businesses change in character and quality over time
         * Must review periodically
 
+## Can you Beat the Pros at their Own Game
+
+* Typical money managers must mimic the market:
+    * With billions in management they must gravitate towards the biggest stocks
+        * Only ones which can supply their multi-million dollar requirements
+        * Many funds end up buying the same stocks
+    * Investors tend to pour in more money as the market rises, the managers use this money to buy more stocks which they already own, driving prices even higher
+        * **They are forced to buy at high prices**
+    * Investors tend to withdraw money when the market drops, the managers are forced to sell stocks at deflated prices to cash them out
+        * **They are forced to sell at low prices**
+    * Many managers are incentivised to beat the S&P 500 index and are forced to buy any new addition to the index
+    * Managers are increasingly expected to specialise
+        * If a company gets too big, too small, too cheap, or too expensive then the fund must sell it even if the manager loves the stock
+* **You can beat the pros, but you can't beat them at their own game!**
+
+## Investing Intelligently is about Controlling the Controllable
+
+* You can't control the market impact in the short run but you can control:
+    * Brokerage costs
+        * Trade rarely, patiently, and cheaply
+    * Ownership costs
+        * Refuse to buy mutual funds with excessive annual expenses
+    * Expectations
+        * Use realism and not fantasy to forecast returns
+    * Risk
+        * Decide how much of your total assets to put at hazard in the stock market, by diversifying, and by re-balancing
+    * Tax Bills
+        * Optimise for local requirements
+    * Behaviour
+* Don't compare your results against others
+    * Measure your results against what you need from your financial plan
+
+## Your Money and Your Brain
+
+* Humans are hard-wired to get into investing trouble
+    * We are pattern-seeking animals
+        * Brains designed to perceive trends even where they may not exist
+    * After an event occurs 2-3 times in a row, our brain automatically anticipates that it will happen again
+        * If it repeats then dopamine is released
+        * If it fails, or reverses, then a "fight or flight" response takes place
+* The pain of financial loss is more than twice as intense as the pleasure of an equivalent gain
+* **By acknowledging your biological tendency to buy-high-sell-low, you can admit the need to dollar-cost-average, rebalance, and sign an investment contract**
+
 ## Summary
 
 * The **Speculator** interest lies in anticipating and profiting from market fluctuations
@@ -353,3 +396,8 @@ Value = Current Assets - Total Liabilities
     * Could be a long wait, and a loss of income
     * Better to invest when he has money to, except when the general market level is much higher than can be justified by well-established standards of value
 * Never buy a stock immediately after a substantial rise, or sell one immediately after a substiantial drop
+* Mr Market's job is to provide you with prices; your job is to decide whether it is to your advantage to act on them
+
+# 9 - Investing in Investment Funds
+
+**Just work with ETFs**
