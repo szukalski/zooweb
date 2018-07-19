@@ -401,3 +401,82 @@ Value = Current Assets - Total Liabilities
 # 9 - Investing in Investment Funds
 
 **Just work with ETFs**
+
+# 11 - Security Analysis for the Lay Investor: General Approach
+
+* The security analyst deals with the past, present, and future of any security issue
+    * Describes the business
+        * Summary of operating results and financial positions
+        * Strong and weak points
+        * Possibilities and risks
+        * Estimated future earning power under various assumptions
+    * Expresses an opinion of the safety or attractiveness of the issue
+* Mathematical valuations have become most precise in the areas where they are least reliable
+    * The higher the growth rate and the longer the future period projected, the more sensitive the forecast becomes to the slightest error
+
+## Bond Analysis
+
+* Chief criterion is the number of times that total interest charges have been covered by available earnings for some years in the past
+    * *Average* results for a period of years
+    * *Poorest-year* result
+
+### Recommended Minimum Coverage for Bonds (Earnings-Coverage Test)
+
+Type|7 yr. Avg (Pre-Income Tax)|Poorest-Year|7 yr. Avg (Post-Income Tax)|Poorest-Year
+-|-|-|-|-
+Public-utility operating company|4x|3x|2.65x|2.1x
+Railroad|5x|4x|3.2x|2.65x
+Industrial|7x|5x|4.3x|3.2x
+Retail concern|5x|4x|3.2x|2.65x
+
+### In Addition to the Earnings-Coverage Test
+
+1. Size of Enterprise
+2. Stock/Equity Ratio
+    * The ratio of the common stock against debt plus preferred stock
+    * Rough measure of the protection afforded to common stock if something unfavourable occurs
+3. Property Value
+    * The asset values shown on the balance sheet
+
+### How Dependable are Tests of Safety Measured on Past and Present Performance
+
+* History shows that bonds that have met the stringent tests of safety have been able to face the future successfully
+
+## Common Stock Analysis
+
+* Valuation of the issue which can be compared with the current price to determine whether or not the security is an attractive purchase
+* Standard procedure for estimating future earnings starts with average past data and projecting these forward based on some assumptions of demand and growth
+* Better to concentrate on one stock you **know** than to dilute your results for diversification's sake
+
+### Factors Affecting the Capitalisation Rate
+
+1. General Long Term Prospects
+    * When dictated by past performance, they are as likely to be wrong as right
+    * Most optimistic when stocks are over-priced, and pessimistic when they are cheapest
+2. Management
+    * Fair to assume an outstandingly successful company has good management
+        * Shown in past results and future estimates
+        * Easily leads to expensive overvaluations
+    * Most useful where a recent change has taken place but has not had time to show it's significance in the actual figures
+3. Financial Strength and Capital Structure
+    * Stock of a company with a lot of surplus cash and nothing ahead is a better purchase (at the same price) than another one with the same EPS but large bank loans and preferred stocks
+        * A moderate use of bonds and preferred stocks is not necessarily a disadvantage
+4. Dividend Record
+    * A continuous period of dividend payments for the last 20 years or more
+5. Current Dividend Rate
+    * *Dividend Payout Ratio* is the percentage of earnings paid out in dividends
+
+### Capitalisation Rates for Growth Stocks
+
+```Math
+Value = Current (Normal) Earnings x (8.5 + 2x Expected Annual Growth Rate)
+```
+
+* Growth figure should be that expected over the next 7-10 years
+
+#### Annual Earnings Multipliers Based on Expected Growth Rates
+
+Expected Growth Rate|0.0%|2.5%|5.0%|7.2%|10.0%|14.3%|20.0%
+-|-|-|-|-|-|-|-
+Growth in 10 years|0.0%|28.0%|63.0%|100.0%|159.0%|280.0%|319.0%
+Multiplier of current earnings|8.5|13.5|18.5|22.9|28.5|37.1|48.5
