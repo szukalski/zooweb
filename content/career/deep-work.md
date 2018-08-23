@@ -2,7 +2,7 @@
 date = "2018-08-23"
 title = "Deep Work"
 slug = "deep-work"
-draft = true
+draft = false
 tags = [
     "career",
     "productivity",
