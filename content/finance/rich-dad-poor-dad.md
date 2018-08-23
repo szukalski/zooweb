@@ -24,6 +24,7 @@ ISBN-13: 978-1612680194
 ## The Lesson
 
 Rule #1:
+
 * Know the difference between an asset and a liability, and buy assets
 
 ### Income Statement
@@ -114,7 +115,7 @@ Which sounds harder?
 
 ## Work to Learn - Don't Work for Money
 
-### Main Management Skills Needed for Success:
+### Main Management Skills Needed for Success
 
 * Management of Cash Flow.
 * Management of Systems.
@@ -166,7 +167,7 @@ There is gold everywhere. Not everyone is trained to see it.
 10. Teach and You Shall Receive: The Power of Giving
     * “If you want something, you first need to give”.
 
-## Still Want More?
+## Still Want More
 
 * Stop What You’re Doing:
     * Assess what is working and what is not working.
