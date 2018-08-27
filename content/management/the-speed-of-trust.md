@@ -44,4 +44,3 @@ Am I credible? Am I believable? Am I someone people can trust?
 2. Intent
 3. Capabilities
 4. Results
-S
