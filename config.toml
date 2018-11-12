@@ -60,6 +60,10 @@ pygmentscodefencesguesssyntax = true
     weight = 6
     url = "/kids/"
 [[menu.main]]
-    name = "About"
+    name = "cheat"
     weight = 7
+    url = "/cheat/"
+[[menu.main]]
+    name = "About"
+    weight = 8
     url = "/about/"
