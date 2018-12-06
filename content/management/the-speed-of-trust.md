@@ -117,3 +117,70 @@ Capable people are credible. They inspire trust.
     * How effective is my current style in approaching problems and opportunities and interacting with others?
     * Does my approach help or hinder results?
     * What can I improve in the way I do things?
+
+#### How to Increase Your Capabilities
+
+1. Run With Your Strengths
+    * Identify your strengths and focus on engaging, developing, and leveraging what is distinctly yours
+2. Keep Yourself Relevant
+    * Lifelong learning
+3. Know Where You're Going
+    * People will follow a leader with a path
+
+### Core 4 - Results
+
+Without results, you don'T have credibility
+
+#### Key Indicators for Results
+
+1. Past Performance
+2. Current Performance
+3. Anticipated Performance
+
+#### How to Improve Results
+
+1. Take Responsibility for Results
+    * Results, not activities
+2. Expect to Win
+    * Our results reflect our expectations
+3. Finish Strong
+    * Results are all about finishing
+
+## The Second Wave - Relationship Trust
+
+Create consistent behaviours that increase trust and avoid ways that destroy it
+
+### The 13 Behaviours
+
+1. Talk Straight
+    * Be honest and use simple language with integrity
+2. Demonstrate Respect
+    * Genuinely care for others
+3. Create Transparency
+    * Be open and tell the truth in a way that can e verified
+4. Right Wrongs
+    * Apologise quickly and make things right when you're wrong
+5. Show Loyalty
+    * Speak about others as if they were there and don't bad mouth others
+6. Deliver Results
+    * Establish a track record of results and do what you are hired to do with excuses
+7. Get Better
+    * Continuously improve and ask for feedback
+8. Confront Reality
+    * Address the tough stuff directly and don't avoid the real issues
+9. Clarify Expectations
+    * Share, discuss, and validate expectations. Renegotiate them if needed
+10. Practice Accountability
+    * Hold yourself and others accountable and take responsibility for results and how they will be communicated
+11. Listen First
+    * Listen, understand, diagnose, and find out what is most important to those you work with
+12. Keep Commitments
+    * Make keeping commitments the symbol of your honour
+13. Extend Trust
+    * Trust those who have earned it, conditionally trust those earning it, have a propensity to trust
+
+### Create an Action Plan
+
+* Rank where you are between 1-5 for the 13 Behaviours
+    * Chart them to track progress
+* Focus on 1-2 to improve
