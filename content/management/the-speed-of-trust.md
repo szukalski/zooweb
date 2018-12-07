@@ -2,7 +2,7 @@
 date = "2018-08-27"
 title = "The Speed of Trust"
 slug = "the-speed-of-trust"
-draft = true
+draft = false
 tags = [
     "management",
 ]
@@ -184,3 +184,75 @@ Create consistent behaviours that increase trust and avoid ways that destroy it
 * Rank where you are between 1-5 for the 13 Behaviours
     * Chart them to track progress
 * Focus on 1-2 to improve
+
+## The Third Wave - Organisational Trust
+
+### The 7 Low-Trust Organisational Taxes
+
+1. Redundancy
+    * Unnecessary duplication
+2. Bureaucracy
+3. Politics
+    * Use of tactics or strategy to gain power
+4. Disengagement
+    * People continue to work but have effectively quit
+5. Turnover
+    * Undesirable turnover of performers
+6. Churn
+    * Turnover of stakeholders other than employees
+7. Fraud
+
+### The 7 High-Trust Dividends
+
+1. Increased Value
+    * Shareholder **and** customer value
+2. Accelerated Growth
+3. Enhanced Innovation
+4. Improved Collaboration
+5. Stronger Partnering
+6. Better Execution
+7. Heightened Loyalty
+
+## The Fourth Wave - Market Trust
+
+All you have is your reputation
+
+Treat your company brand like your Self Trust
+
+## The Fifth Wave - Societal Trust
+
+### The Principle of Contribution
+
+* The intent to create value instead of destroy it
+* Become a good global citizen
+    * Conscious capitalism
+
+## The Five Waves Summary
+
+1. The 4 Cores and 13 Behaviours are the tools to establish or restore trust in every context
+2. Organisational Trust is about **alignment** and builds trust with **internal stakeholders**
+3. Market Trust is about **reputation** and builds trust with **external stakeholders**
+4. Societal Trust is about **contribution**
+
+## Inspiring Trust
+
+### Extending Smart-Trust
+
+||||
+|---|---|---|
+|High Propensity to Trust|1.  **Gullibility** (Blind Trust)|2. **Judgement** (Smart Trust)|
+|Low Propensity to Trust|3. **Indecision** (No Trust)|4. **Suspicion** (Distrust)|
+||Low Analysis|High Analysis|
+
+#### Smart-Trust Analysis
+
+1. What **Opportunity** is there?
+2. What **Risk** is involved?
+3. What is the **Credibility** of those involved?
+
+### Restoring Trust When It Has Been Lost
+
+* Don't be too quick to judge
+* Do be quick to forgive
+* Prioritise restoring trust
+* Broken trust can be a significant beginning
