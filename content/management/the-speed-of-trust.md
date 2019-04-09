@@ -1,5 +1,5 @@
 +++
-date = "2018-08-27"
+date = "2019-03-27"
 title = "The Speed of Trust"
 slug = "the-speed-of-trust"
 draft = false
