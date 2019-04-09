@@ -4,10 +4,10 @@ title = "The Speed of Trust"
 slug = "the-speed-of-trust"
 draft = false
 tags = [
-    "management",
+    "management"
 ]
 categories = [
-    "management",
+    "management"
 ]
 +++
 
